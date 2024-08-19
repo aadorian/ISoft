@@ -1,5 +1,4 @@
-Here's the content from the provided PowerPoint slide converted to markdown:
-
+# Clase I
 ---
 
 # Introducción a la Ingeniería de Software
